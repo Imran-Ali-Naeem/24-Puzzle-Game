@@ -1,18 +1,29 @@
-<h1">
-    24 Puzzle Game
-</h1>
-<hr>
-<img src="1.png" alt="#">
-<br><br>
-<img src="2.png" alt="#"> 
-<br><br>
-<img src="3.png" alt="#">
-<br><br>
-<img src="4.png" alt="#">
-<br><br>
-<img src="5.png" alt="#">
+# 24 Puzzle Game
+
+---
+
+![Image 1](1.png)
+
 <br><br>
 
-<hr>
-<h1>Video</h1>
+![Image 2](2.png)
+
+<br><br>
+
+![Image 3](3.png)
+
+<br><br>
+
+![Image 4](4.png)
+
+<br><br>
+
+![Image 5](5.png)
+
+<br><br>
+
+---
+
+## Video
+
 <video src="pf project.mp4" width="500px" height="500px" controls ></video>
